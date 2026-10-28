@@ -1,16 +1,6 @@
 {
- "files": {
-  "duckduckgo.js": "c5b54484c77617fe1d232c3ee9f8cb20b52ee62fbac852a49df035ac8478c03d",
-  "duckduckgo.json": "ca9836ab5bf8fa41590054a863b2ef47d99bdd2ea42ad610d7d6307ed7bcf7ad",
-  "duckduckgo.png": "cec1be2def70ff6af117cf63175bbf73df44bca1b7160b0ba454e65391c8f929",
-  "yandex.js": "0d7289b9151c24393a2faa16c1aa64b66b19b18ee29403c15468cee8940e6fe7",
-  "yandex.json": "eb3f55951c22d7e6b82f54429022f88059a94239b775262611203d40f921d3b2",
-  "yandex.png": "61c76c23cec0bc9bc7fa099d8f83ecc6ebefb80cfd83e6487aeb0228a7537c6f"
- },
+ "files": {},
  "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJvdCwjszZRTk8tksB1MB65prkkH6sdCWW1W/WhA+FlGMHXWMDcEAfxeww0m/OnG+MflOnhmSDWn+pttfamYubQ==",
  "name": "Orvid search",
- "sources": [
-  "duckduckgo.json",
-  "yandex.json"
- ]
+ "sources": []
 }
